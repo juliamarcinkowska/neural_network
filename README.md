@@ -1,5 +1,5 @@
-# neural_network
+# neural_network # c++
 
-Sieć neuronowa z jedną warstwą ukrytą realizującą aproksymację funkcji. Program używa gnuplota do rysowania funkcji.
+C++ application - neural network with one hidden layer. Purpose of the network is to approximate function based on a chosen training set of points. Then neural network is tested and plot (using gnuplot) is showed. 
 
-Projekt był współtworzony z Weroniką Górecką (weronika.gorecka04@gmail.com).
+Project was co-created with Weronika Górecka (https://github.com/wgorecka) pre her creation of github account.
